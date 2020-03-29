@@ -14,7 +14,7 @@ The library does not modify request and response payload.
 
 * [Installation](#installation-arrow_up)
 * [Usage](#usage-arrow_up)
-  * [Simple example](#simple-example-arrow_up)
+  * [Simple example](#simple-example)
   * [Advanced example](#advanced-example-arrow_up)
 * [Available Options](#available-options-arrow_up)
 * [Versioning](#versioning-arrow_up)
@@ -28,7 +28,7 @@ The library does not modify request and response payload.
 
 ## Usage [:arrow_up:](#table-of-contents)
 
-### Simple example [:arrow_up:](#table-of-contents)
+### Simple example [🔝](#table-of-contents)
 
 ```typescript
 import { SquareClient } from '@goparrot/square-connect-plus'; 
