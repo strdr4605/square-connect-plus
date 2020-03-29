@@ -28,7 +28,7 @@ The library does not modify request and response payload.
 
 ## Usage [:arrow_up:](#table-of-contents)
 
-### Simple example [🔝](#table-of-contents)
+### Simple example[🔝](#table-of-contents)
 
 ```typescript
 import { SquareClient } from '@goparrot/square-connect-plus'; 
